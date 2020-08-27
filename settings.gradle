@@ -1,0 +1,4 @@
+include ':easy_download'
+include ':easy_upload'
+include ':app'
+rootProject.name = "AndroidEasyFileUpload"
